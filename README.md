@@ -1,5 +1,5 @@
 <h1 align="center">Opa 👋, sou Maurício</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> </h3>
 
 - 🔭 Estou trabalhando com análise de dados e visualização, com datawarehouse e microsoft power bi [Hopper](https://hml-hopper.fbrdigital.com.br/)
 
