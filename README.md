@@ -68,4 +68,6 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauricio-nt&show_icons=true&locale=en&layout=compact" alt="mauricio-nt" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauricio-nt&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="mauricio-nt" />
+</p>
