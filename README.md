@@ -9,7 +9,7 @@
 
 - 📫 Você me acha através do e-mail **mauricio.sbneto@gmail.com**
 
-- 📄 Aqui estão algumas das minhas habilidades [https://www.linkedin.com/imauricio-neto-67b3558a/](https://www.linkedin.com/in/mauricio-neto-67b3558a/)
+- 📄 Aqui estão algumas das minhas habilidades [https://www.linkedin.com/in/mauricio-nto/](https://www.linkedin.com/in/mauricio-nto/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
