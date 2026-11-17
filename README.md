@@ -67,7 +67,3 @@
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png" alt="zabbix" width="40" height="40"/> 
   </a> 
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauricio-nt&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="mauricio-nt" />
-</p>
